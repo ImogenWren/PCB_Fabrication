@@ -28,3 +28,4 @@ https://www.postoffice.co.uk/mail/customs-forms/CN22-form-guide
 I’m not sure this form would be the correct one as it is used for sending stuff out of the UK using royal mail."*
 **(Gold, I. 2022)**
 
+UOE_EORI_NUMBER
